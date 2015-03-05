@@ -13,7 +13,6 @@ public class Empresa {
 		}
 		this.empregados[ quadroDeFuncionarios] = f;
 		quadroDeFuncionarios++;
-		System.out.println("Array length = " + this.empregados.length);
 	}
 	
 	private void realocaEmpregados() {
