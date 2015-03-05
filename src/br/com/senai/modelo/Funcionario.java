@@ -5,7 +5,7 @@ public class Funcionario {
 	public String rg;
 	public double salario;
 	
-	public void mosta() {
+	public void mostra() {
 		System.out.println("Nome: " + this.nome);
 		System.out.println("RG: " + this.rg);
 		System.out.println("Salário: " + this.salario);
